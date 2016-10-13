@@ -365,7 +365,7 @@ attributeTypes: ( 2.16.840.1.113730.3.8.5.31
  EQUALITY caseIgnoreMatch 
  SINGLE-VALUE )
 #
-olcattributeTypes: ( 2.16.840.1.113730.3.8.5.29 
+attributeTypes: ( 2.16.840.1.113730.3.8.5.29 
  NAME 'idnsTemplateAttribute' 
  DESC 'Template attribute for dynamic attribute generation' 
  EQUALITY caseIgnoreIA5Match 
